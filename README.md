@@ -1,1 +1,1 @@
-# Repositorio de projeyo dio-desafio-github
+# Repositorio de projeto dio-desafio-github
